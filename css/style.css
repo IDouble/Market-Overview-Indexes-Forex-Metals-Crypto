@@ -1,0 +1,19 @@
+body, html { font-size: 100%; padding: 0; margin: 0; height: 100%; background-color:black;}
+
+h1{
+	color:#FFFFFF;
+	font-family:helvetica;
+	font-size:25px;
+	margin-top:5px;
+	text-align: center;
+}
+
+h2{
+	color:#FFFFFF;
+	font-family:helvetica;
+	font-size:18px;
+	text-align: center;
+	margin-top:-28px !important;
+	margin-left:5px;
+	position:absolute;
+}
